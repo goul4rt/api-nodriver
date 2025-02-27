@@ -1,0 +1,6 @@
+Flask
+nodriver
+undetected-chromedriver
+beautifulsoup4
+apscheduler
+quart
